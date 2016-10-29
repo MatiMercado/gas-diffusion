@@ -31,3 +31,8 @@ Run the `gas-diffusion` script as follows:
 Run the `analyser` script as follows:
 
     $ ./analyser.sh
+    
+## Authors
+* Gonzalo Ibars
+* Matias Comercio
+* Matias Mercado
